@@ -1,0 +1,20 @@
+{
+
+  "tests":["VITAMIN B12, SERUM","AFP (ALPHA FETO PROTEINS)","AMYLASE, SERUM",
+  "GD 1.1 Thyroid Profile, Iron Deficiency profile, Liver Profile, Lipid Profile, Kidney Profile"],
+
+  "Valid_patientDetails":{
+    "name":"TesterLi",
+    "email":"email@gmail.com",
+    "Phone":"7803145039"
+
+  },
+   "Invalid_patientDetails":{
+    "name":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "email":"abcd",
+    "Phone":"1234"
+
+  }
+
+
+}
